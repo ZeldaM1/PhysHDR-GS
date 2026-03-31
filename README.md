@@ -174,11 +174,9 @@ If you find this work useful, please give us a star 🌟 and consider citing our
 
 
 ## Acknowledgments
-
 This repository builds upon excellent prior work:
 - [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) by Kerbl et al.
-- [HDR-GS](https://github.com/LiipengLiipeng/HDR-GS) by Huang et al.
-- [GaussHDR](https://github.com/wu-cvgl/GaussHDR) by Wu et al.
+- [GaussHDR](https://github.com/LiuJF1226/GaussHDR) by Liu et al.
 
 We thank their authors for sharing these excellent works!
 
