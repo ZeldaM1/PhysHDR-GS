@@ -26,24 +26,24 @@ Northeastern University
     <td align="center" width="50%"><b>Chair</b></td>
   </tr>
   <tr>
-    <td><img src="mp4/bathroom_cat.gif" width="100%"></td>
-    <td><img src="mp4/chair_cat.gif"    width="100%"></td>
+    <td><img src="assets/mp4/bathroom_cat.gif" width="100%"></td>
+    <td><img src="assets/mp4/chair_cat.gif"    width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>Sofa</b></td>
     <td align="center"><b>Diningroom</b></td>
   </tr>
   <tr>
-    <td><img src="mp4/sofa_cat.gif"       width="100%"></td>
-    <td><img src="mp4/diningroom_cat.gif" width="100%"></td>
+    <td><img src="assets/mp4/sofa_cat.gif"       width="100%"></td>
+    <td><img src="assets/mp4/diningroom_cat.gif" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>Dog</b></td>
     <td align="center"><b>Bear</b></td>
   </tr>
   <tr>
-    <td><img src="mp4/dog_cat.gif"  width="100%"></td>
-    <td><img src="mp4/bear_cat.gif" width="100%"></td>
+    <td><img src="assets/mp4/dog_cat.gif"  width="100%"></td>
+    <td><img src="assets/mp4/bear_cat.gif" width="100%"></td>
   </tr>
 </table>
 
