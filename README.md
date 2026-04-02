@@ -121,7 +121,8 @@ We provide a Docker image environment for easy setup:
 docker pull zeldam1/zhm_docker:zhm-py310-torch21
 docker run --gpus all -it -v /workdir:/workdir  --shm-size 64g zeldam1/zhm_docker:zhm-py310-torch21 /bin/bash
 
-cd Arbi-3DGSR
+git clone https://github.com/ZeldaM1/PhysHDR-GS.git
+cd PhysHDR-GS
 
 pip install pyiqa==0.1.10 pytorch-lightning==1.4.2 torchmetrics==0.6.0 taming-transformers-rom1504 scikit-learn kornia==0.6 open_clip_torch==2.0.2 transformers==4.38.2 clip accelerate==1.12.0 submodules/simple-knn submodules/diff-gaussian-rasterization
 ```
@@ -130,12 +131,12 @@ pip install pyiqa==0.1.10 pytorch-lightning==1.4.2 torchmetrics==0.6.0 taming-tr
 
 ```bash
 # Clone the repository
-git clone git@github.com:huimin-zeng/Arbi-3DGSR.git
-cd Arbi-3DGSR
+git clone https://github.com/ZeldaM1/PhysHDR-GS.git
+cd PhysHDR-GS
 
 # Create conda environment
-conda create -y -n Arbi-3DGSR python=3.10
-conda activate Arbi-3DGSR
+conda create -y -n PhysHDR-GS python=3.10
+conda activate PhysHDR-GS
 
 # Install PyTorch with CUDA 12.1
 pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu121
